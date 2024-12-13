@@ -106,8 +106,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## 📧 **Contact**
 
 For questions, suggestions, or feedback, reach out at:
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Email: amit.shinde.22042@iitgoa.ac.in
+- GitHub: AmitIITGoa
 
 ---
 
